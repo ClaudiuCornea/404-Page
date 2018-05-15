@@ -10,4 +10,8 @@ toutes les instructions sur ce [lien](https://github.com/becodeorg/lovelace-2/bl
 ### Status
 
 ![I'm working on it](http://freelancechristianity.com/wp-content/uploads/2016/08/hey-relax-buddy-im-working-on-it.jpg)  
-`Début le 14 mai 2018.`
+`Début le 14 mai 2018.
+
+### Ameliorations
+
+* Changer l'arriere plan, ne pas mettre d'image et mettre plutot une petite image ca donne mieux sur les GSM.
